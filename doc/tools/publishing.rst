@@ -66,14 +66,13 @@ repository on github.com.
 
    #. Add the ``rackernexus`` service account as a collaborator with Admin
       privileges.
-   
+      
       GitHub will send an invitation requesting that ``rackernexus`` join the
       repository.
 
-   #. In the `Deconst Slack channel
-      <https://rackdx.slack.com/archives/deconst>`_,
-     request the deconst administrator to accept the GitHub invitation sent to
-     the ``rackernexus``service account.
+   #. In the `Deconst Slack channel <https://rackdx.slack.com/archives/deconst>`_,
+      request the deconst administrator to accept the GitHub invitation sent to
+      the ``rackernexus``service account.
 
 #. Create a deconst configuration file for the project you want to build.
 
